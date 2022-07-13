@@ -22,6 +22,8 @@ Build assets for production
 npm run build
 ```
 
+###### [Click here to see live demo](https://trustly-js.netlify.app/)
+
 ## About my solution
 
 My solution is very simple when the user first visits the site, a message about cookies consent will be displayed and it will only be displayed once.
