@@ -1,0 +1,8 @@
+button {
+  padding: 14px;
+  background-color: $primary-clr;
+  &:hover {
+    background-color: #000;
+    color: #fff;
+  }
+}
